@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @noorrulain
+- 👀 I’m interested in web development and am skilled in HTML, CSS, React.js and Node.js.
+- 🌱 I’m currently learning Angular.js.
+- 💞️ I’m looking to collaborate on frontend development projects.
+- 📫 How to reach me: https://www.linkedin.com/in/noorrulain/ OR noor25pk5@gmail.com
+- ⚡ Fun fact: I'm a huge fan of Real Madrid.
