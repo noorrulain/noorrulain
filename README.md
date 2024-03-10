@@ -9,4 +9,4 @@
 - ⚡ Random fun fact? I'm a HUGE fan of Real Madrid.
 
 <h2>Skills</h2>
-<img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,nodejs,express,vscode,bootstrap,)](https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,nodejs,express,vscode,bootstrap,git,)](https://skillicons.dev">
