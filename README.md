@@ -6,6 +6,7 @@
 🌱 I’m currently learning a bunch of stuff 🤣. <br>
 💞️ I’m looking to collaborate on frontend development projects. <br>
 📫 Reach out to me at https://www.linkedin.com/in/noorrulain/ OR noor25pk5@gmail.com <br>
+💻 Check out my portfolio at https://noorrulain.github.io/noorrulain-portfolio/ <br>
 ⚡ Random fun fact? I'm a HUGE fan of Real Madrid.
 
 <h2>Skills</h2>
