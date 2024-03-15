@@ -14,16 +14,16 @@
 
 <h2>Some Cool Stuff I've Worked On</h2>
 <div>
-  <img src="/guess-the-word.png" height="200"/> <br>
+  <img src="/guess-the-word.png" height="150"/> <br>
   <figcaption><a href="https://github.com/noorrulain/guess-the-word">Guess The Word Game</a></figcaption>
 </div>
 <br>
 <div>
-  <img src="/breaking-bad-quote-generator.png" height="200"/> <br>
+  <img src="/breaking-bad-quote-generator.png" height="150"/> <br>
   <figcaption><a href="https://github.com/noorrulain/breaking-bad-quote-generator">Breaking Bad Quote Generator</a></figcaption>
 </div>
 <br>
 <div>
-  <img src="/palindrome-checker.png" height="200"/> <br>
+  <img src="/palindrome-checker.png" height="150"/> <br>
   <figcaption><a href="https://github.com/noorrulain/palindrome-checker">Palindrome Checker</a></figcaption>
 </div>
