@@ -12,7 +12,7 @@
 <h2>Skills</h2>
 <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,nodejs,express,vscode,bootstrap,git,)](https://skillicons.dev">
 
-<h2>Some Cool Stuff I've Worked On</h2>
+<h2>Cool Stuff I've Worked On</h2>
 <div>
   <img src="/guess-the-word.png" height="150"/> <br>
   <figcaption><a href="https://github.com/noorrulain/guess-the-word">Guess The Word Game</a></figcaption>
