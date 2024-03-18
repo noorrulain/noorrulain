@@ -10,7 +10,7 @@
 ⚡ Random fun fact? I'm a HUGE fan of Real Madrid.
 
 <h2>Skills</h2>
-<img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,nodejs,express,vscode,bootstrap,git,)](https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,nodejs,express,vscode,bootstrap,git,postgres,)](https://skillicons.dev">
 
 <h2>Cool Stuff I've Worked On</h2>
 <div>
@@ -21,9 +21,4 @@
 <div>
   <img src="/breaking-bad-quote-generator.png" height="150"/> <br>
   <figcaption><a href="https://github.com/noorrulain/breaking-bad-quote-generator">Breaking Bad Quote Generator</a></figcaption>
-</div>
-<br>
-<div>
-  <img src="/palindrome-checker.png" height="150"/> <br>
-  <figcaption><a href="https://github.com/noorrulain/palindrome-checker">Palindrome Checker</a></figcaption>
 </div>
