@@ -10,15 +10,14 @@
 ⚡ Random fun fact? I'm a HUGE fan of Real Madrid.
 
 <h2>Skills</h2>
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F0DB4F" alt="javascript" />
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" />
 <img src="https://img.shields.io/badge/jquery-131b28.svg?style=for-the-badge&logo=jquery&logoColor=0868AC" alt="jquery" />
-<img src="https://img.shields.io/badge/ejs-a3cc91.svg?style=for-the-badge&logo=ejs&logoColor=a333bd" alt="ejs" />
-<img src="https://img.shields.io/badge/nodejs-303030.svg?style=for-the-badge&logo=nodedotjs&logoColor=3c873a" alt="nodejs" />
-</p><p>
+<img src="https://img.shields.io/badge/ejs-B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=A91E50" alt="ejs" />
+<img src="https://img.shields.io/badge/node.js-303030.svg?style=for-the-badge&logo=nodedotjs&logoColor=3c873a" alt="nodejs" />
 <img src="https://img.shields.io/badge/express-black.svg?style=for-the-badge&logo=express&logoColor=white" alt="express" />  
 <img src="https://img.shields.io/badge/bootstrap-563d7c.svg?style=for-the-badge&logo=bootstrap&logoColor=ffffff" alt="bootstrap" />
 <img src="https://img.shields.io/badge/postgresql-black.svg?style=for-the-badge&logo=postgresql&logoColor=#2F6792" alt="postgresql" />  
