@@ -5,8 +5,8 @@
 👋 I'm an aspiring fullstack web developer. <br>
 🌱 I’m currently learning a bunch of stuff 🤣. <br>
 💞️ I’m looking to collaborate on frontend development projects. <br>
-📫 Reach out to me at https://www.linkedin.com/in/noorrulain/ OR noor25pk5@gmail.com <br>
-💻 Check out my portfolio at https://noorrulain.github.io/portfolio/ <br>
+📫 Reach out to me on <a href="https://www.linkedin.com/in/noorrulain/" target="_blank">Linkedin</a> OR noor25pk5@gmail.com <br>
+💻 Check out my portfolio <a href="https://noorrulain.github.io/portfolio/" target="_blank">here</a>. <br>
 ⚡ Random fun fact? I'm a HUGE fan of Real Madrid.
 
 <h2>Skills</h2>
@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/node.js-303030.svg?style=for-the-badge&logo=nodedotjs&logoColor=3c873a" alt="nodejs" />
 <img src="https://img.shields.io/badge/express-black.svg?style=for-the-badge&logo=express&logoColor=white" alt="express" />  
 <img src="https://img.shields.io/badge/bootstrap-563d7c.svg?style=for-the-badge&logo=bootstrap&logoColor=ffffff" alt="bootstrap" />
-<img src="https://img.shields.io/badge/postgresql-black.svg?style=for-the-badge&logo=postgresql&logoColor=#2F6792" alt="postgresql" />  
+<img src="https://img.shields.io/badge/postgresql-2F6792.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />  
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code" />
 </p>
