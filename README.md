@@ -10,7 +10,7 @@
 ⚡ Random fun fact? I'm a HUGE fan of Real Madrid.
 
 <h2>Skills</h2>
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F0DB4F" alt="javascript" />
