@@ -32,22 +32,22 @@
 <div>
   <table>
     <tr>
-      <td>
-        <img src="/guess-the-word.png" height="150"/> <br>
+      <td width="50%">
+        <img src="/guess-the-word.png" width="100%"/> <br>
         <figcaption><a href="https://github.com/noorrulain/guess-the-word">Guess The Word Game</a></figcaption>
       </td>
-       <td>
-        <img src="/internet-speed-app.png" height="150"/> <br>
+       <td width="50%">
+        <img src="/internet-speed-app.png" width="100%"/> <br>
         <figcaption><a href="https://github.com/noorrulain/internet-speed-test">Internet Speed Test</a></figcaption>
        </td>
     </tr>
     <tr>
-      <td>
-        <img src="/book-tracker.png" height="150"/> <br>
+      <td width="50%">
+        <img src="/book-tracker.png" width="100%"/> <br>
         <figcaption><a href="https://github.com/noorrulain/book-tracker">Book Tracker</a></figcaption>
       </td>
-      <td>
-        <img src="/breaking-bad-quote-generator.png" height="150"/> <br>
+      <td width="50%">
+        <img src="/breaking-bad-quote-generator.png" width="100%"/> <br>
         <figcaption><a href="https://github.com/noorrulain/breaking-bad-quote-generator">Breaking Bad Quote Generator</a></figcaption>
       </td>
     </tr>
