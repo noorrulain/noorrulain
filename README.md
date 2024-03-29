@@ -3,9 +3,17 @@
 👋 I'm an aspiring fullstack web developer. <br>
 🌱 I’m currently learning a bunch of stuff 🤣. <br>
 💞️ I’m looking to collaborate on web development projects. <br>
-📫 You can reach out to me on <a href="https://www.linkedin.com/in/noorrulain/" target="_blank">Linkedin</a> OR via email at noor25pk5@gmail.com.<br>
+📫 You can reach out to me via email at noor25pk5@gmail.com.<br>
 💻 Check out my portfolio <a href="https://noorrulain.github.io/portfolio/" target="_blank">here</a>. <br>
 ⚡ Random fun fact? I'm a HUGE fan of Real Madrid.
+
+<h2>Connect With Me</h2>
+<p>
+  <a href="https://www.linkedin.com/in/noorrulain/"><img src="https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://medium.com/@noorrulain"><img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="medium"></a>
+  <a href="https://discordapp.com/users/noor3435"><img src="https://img.shields.io/badge/discord-5865f2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  
+</p>
 
 <h2>Skills</h2>
 <p align="left">
