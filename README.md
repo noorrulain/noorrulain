@@ -45,7 +45,7 @@
         <figcaption><a href="https://github.com/noorrulain/guess-the-word">Guess The Word Game</a></figcaption>
       </td>
        <td width="50%">
-        <img src="/internet-speed-app.png" width="100%"/> <br>
+        <img src="/internet-speed.png" width="100%"/> <br>
         <figcaption><a href="https://github.com/noorrulain/internet-speed-test">Internet Speed Test</a></figcaption>
        </td>
     </tr>
