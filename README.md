@@ -30,7 +30,8 @@
 <img src="https://img.shields.io/badge/npm-cb3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
 <img src="https://img.shields.io/badge/express-black.svg?style=for-the-badge&logo=express&logoColor=white" alt="express" />
 <img src="https://img.shields.io/badge/axios-854195?style=for-the-badge&logo=axios&logoColor=white" alt="axios" />
-<img src="https://img.shields.io/badge/postgresql-2F6792.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />  
+<img src="https://img.shields.io/badge/postgresql-2F6792.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
+<img src="https://img.shields.io/badge/mongodb-001e2b.svg?style=for-the-badge&logo=mongodb&logoColor=00ed64" alt="mongodb" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 <img src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code" />
 </p>
