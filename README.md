@@ -41,24 +41,32 @@
 <div>
   <table>
     <tr>
+      <a href="https://github.com/noorrulain/guess-the-word">
       <td width="50%">
         <img src="/guess-the-word.png" width="100%"/> <br>
-        <figcaption><a href="https://github.com/noorrulain/guess-the-word">Guess The Word Game</a></figcaption>
+        <figcaption><a href="href="https://github.com/noorrulain/guess-the-word">Guess The Word Game</a></figcaption>
       </td>
+        </a>
+      <a href="https://github.com/noorrulain/internet-speed-test">
        <td width="50%">
         <img src="/internet-speed.png" width="100%"/> <br>
         <figcaption><a href="https://github.com/noorrulain/internet-speed-test">Internet Speed Test</a></figcaption>
        </td>
+        </a>
     </tr>
     <tr>
+      <a href="https://github.com/noorrulain/book-tracker">
       <td width="50%">
         <img src="/book-tracker.png" width="100%"/> <br>
         <figcaption><a href="https://github.com/noorrulain/book-tracker">Book Tracker</a></figcaption>
       </td>
+        </a>
+      <a href="https://github.com/noorrulain/breaking-bad-quote-generator">
       <td width="50%">
         <img src="/breaking-bad-quote-generator.png" width="100%"/> <br>
         <figcaption><a href="https://github.com/noorrulain/breaking-bad-quote-generator">Breaking Bad Quote Generator</a></figcaption>
       </td>
+        </a>
     </tr>
   </table>
 </div>
