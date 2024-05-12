@@ -34,6 +34,7 @@
 <img src="https://img.shields.io/badge/mongodb-001e2b.svg?style=for-the-badge&logo=mongodb&logoColor=00ed64" alt="mongodb" />
 <img src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+<img src="https://img.shields.io/badge/Python-646464?style=for-the-badge&logo=python&logoColor=4b8bbe" alt="python" />
 </p>
 <!-- <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,nodejs,express,vscode,bootstrap,git,postgres,)](https://skillicons.dev"> -->
 
