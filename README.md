@@ -57,8 +57,6 @@ being driven by clinically meaningful retinal regions.
 <p>
 <b>Tech:</b> Python • Deep Learning • Computer Vision • EfficientNet • Knowledge Distillation • CBAM • GradCAM++
 </p>
-<br>
-
 
 <h3>🎵 <a href="https://github.com/noorrulain/melodymatch">MelodyMatch — Spotify Song Recommender</a></h3>
 <p>
@@ -79,8 +77,6 @@ My primary contribution to the project was <b>Machine Learning and Analytics</b>
 <b>Tech:</b> Python • Machine Learning • KMeans • KNN • Pandas • PostgreSQL • Prefect • Docker • Streamlit
 </p>
 
-<br>
-
 <h3>📚 <a href="https://github.com/noorrulain/book-tracker">Book Tracker</a></h3>
 <p>
 A full-stack web application for keeping track of books you've read, adding new books,
@@ -90,8 +86,6 @@ and sorting them by title, rating or date read. Book data is persisted using Pos
 <b>Tech:</b> Node.js • PostgreSQL • JavaScript • HTML • CSS
 </p>
 
-<br>
-
 <h3>🧩 <a href="https://github.com/noorrulain/guess-the-word">Guess The Word</a></h3>
 <p>
 A browser-based word guessing game where players get eight attempts to guess a randomly
@@ -100,8 +94,6 @@ selected word and can replay as many times as they want.
 <p>
 <b>Tech:</b> JavaScript • HTML • CSS
 </p>
-
-<br>
  
 <h3>⚗️ <a href="https://github.com/noorrulain/breaking-bad-quote-generator">Breaking Bad Quote Generator</a></h3>
 <p>
@@ -110,5 +102,3 @@ A React-based web application for generating random quotes from Breaking Bad.
 <p>
 <b>Tech:</b> React • JavaScript • HTML • CSS
 </p>
-
-<br>
