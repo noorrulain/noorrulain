@@ -92,7 +92,6 @@ and sorting them by title, rating or date read. Book data is persisted using Pos
 
 <br>
 
-
 <h3>🧩 <a href="https://github.com/noorrulain/guess-the-word">Guess The Word</a></h3>
 <p>
 A browser-based word guessing game where players get eight attempts to guess a randomly
@@ -100,13 +99,6 @@ selected word and can replay as many times as they want.
 </p>
 <p>
 <b>Tech:</b> JavaScript • HTML • CSS
-</p>
-<br>
-
-
-<h3>🌐 <a href="https://github.com/noorrulain/internet-speed-test">Internet Speed Test</a></h3>
-<p>
-A web-based project for measuring and displaying a user's internet speed.
 </p>
 
 <br>
